@@ -27,3 +27,7 @@ let number = 33
 let stringNumber =  String(number)
 console.log( typeof stringNumber);
 //33 types of conver string me ans will be = string
+
+let value = 3
+let negvalue = -value
+console.log(negvalue);//converting in negative value
