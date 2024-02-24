@@ -23,3 +23,5 @@ let isLoggedIn = false //boolean
 console.log(typeof "Tanvi");//string
 console.log(typeof null);//object hai 
 console.log(typeof undefined);//undefined
+console.log(typeof 21);
+console.log(typeof false);
